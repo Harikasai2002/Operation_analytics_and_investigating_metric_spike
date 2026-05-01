@@ -51,5 +51,5 @@ Automate reporting pipelines
 Incorporate predictive analysis using Python
 
 Author:
-Sai Harika Athmakuu
+Sai Harika Athmakuru
 Aspiring Data Analyst | SQL | Python | Excel
